@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

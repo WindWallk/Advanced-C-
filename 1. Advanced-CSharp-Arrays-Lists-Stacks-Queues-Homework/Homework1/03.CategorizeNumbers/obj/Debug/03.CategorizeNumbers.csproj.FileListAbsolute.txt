@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache

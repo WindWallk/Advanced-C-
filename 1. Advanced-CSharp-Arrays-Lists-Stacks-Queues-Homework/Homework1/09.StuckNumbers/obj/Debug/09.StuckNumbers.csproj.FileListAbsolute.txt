@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\09.StuckNumbers\obj\Debug\09.StuckNumbers.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\06.SubsetSums\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\06.SubsetSums\bin\Debug\06.SubsetSums.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\06.SubsetSums\obj\Debug\06.SubsetSums.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\06.SubsetSums\obj\Debug\06.SubsetSums.pdb

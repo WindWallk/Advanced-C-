@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\04.SequalsOfStrings\bin\Debug\04.SequalsOfStrings.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\04.SequalsOfStrings\bin\Debug\04.SequalsOfStrings.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\04.SequalsOfStrings\bin\Debug\04.SequalsOfStrings.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\04.SequalsOfStrings\obj\Debug\04.SequalsOfStrings.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\04.SequalsOfStrings\obj\Debug\04.SequalsOfStrings.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Homework 1\Homework1\04.SequalsOfStrings\obj\Debug\04.SequencesOfStrings.csprojResolveAssemblyReference.cache
