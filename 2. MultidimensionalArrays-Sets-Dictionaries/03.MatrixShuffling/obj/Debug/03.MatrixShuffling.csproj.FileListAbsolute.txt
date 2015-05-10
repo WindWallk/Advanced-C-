@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb

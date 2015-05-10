@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb

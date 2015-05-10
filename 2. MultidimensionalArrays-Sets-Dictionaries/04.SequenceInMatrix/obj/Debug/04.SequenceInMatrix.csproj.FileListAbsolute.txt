@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb

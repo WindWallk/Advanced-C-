@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.pdb

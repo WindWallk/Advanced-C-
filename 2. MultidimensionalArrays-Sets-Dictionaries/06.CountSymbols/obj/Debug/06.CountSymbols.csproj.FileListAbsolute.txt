@@ -1,0 +1,5 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
