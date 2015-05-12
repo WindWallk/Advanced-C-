@@ -1,0 +1,5 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb

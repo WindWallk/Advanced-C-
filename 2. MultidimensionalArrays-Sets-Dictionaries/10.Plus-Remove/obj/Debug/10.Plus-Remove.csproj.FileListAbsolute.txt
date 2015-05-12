@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\bin\Debug\10.Plus-Remove.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\bin\Debug\10.Plus-Remove.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\bin\Debug\10.Plus-Remove.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\obj\Debug\10.Plus-Remove.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\obj\Debug\10.Plus-Remove.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\obj\Debug\10.Plus-Remove.pdb
