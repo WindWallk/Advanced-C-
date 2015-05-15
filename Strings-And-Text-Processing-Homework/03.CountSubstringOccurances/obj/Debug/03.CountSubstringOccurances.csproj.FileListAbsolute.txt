@@ -1,0 +1,5 @@
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\03.CountSubstringOccurances\bin\Debug\03.CountSubstringOccurances.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\03.CountSubstringOccurances\bin\Debug\03.CountSubstringOccurances.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\03.CountSubstringOccurances\bin\Debug\03.CountSubstringOccurances.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\03.CountSubstringOccurances\obj\Debug\03.CountSubstringOccurances.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\03.CountSubstringOccurances\obj\Debug\03.CountSubstringOccurances.pdb

@@ -1,0 +1,5 @@
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\06.Palindromes\bin\Debug\06.Palindromes.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\06.Palindromes\bin\Debug\06.Palindromes.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\06.Palindromes\obj\Debug\06.Palindromes.exe
+C:\Users\WindWallk\Desktop\Advanced C#\Strings-And-Text-Processing-Homework\06.Palindromes\obj\Debug\06.Palindromes.pdb
