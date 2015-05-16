@@ -1,0 +1,5 @@
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb
