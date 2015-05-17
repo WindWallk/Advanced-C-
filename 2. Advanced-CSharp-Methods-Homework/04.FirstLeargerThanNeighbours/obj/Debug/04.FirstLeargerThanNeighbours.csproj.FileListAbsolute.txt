@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\04.FirstLeargerThanNeighbours\bin\Debug\04.FirstLeargerThanNeighbours.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\04.FirstLeargerThanNeighbours\bin\Debug\04.FirstLeargerThanNeighbours.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\04.FirstLeargerThanNeighbours\bin\Debug\04.FirstLeargerThanNeighbours.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\04.FirstLeargerThanNeighbours\obj\Debug\04.FirstLeargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\04.FirstLeargerThanNeighbours\obj\Debug\04.FirstLeargerThanNeighbours.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\04.FirstLeargerThanNeighbours\obj\Debug\04.FirstLeargerThanNeighbours.pdb

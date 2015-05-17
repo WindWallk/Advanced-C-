@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+C:\Users\WindWallk\Desktop\Advanced C#\2. Advanced-CSharp-Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
