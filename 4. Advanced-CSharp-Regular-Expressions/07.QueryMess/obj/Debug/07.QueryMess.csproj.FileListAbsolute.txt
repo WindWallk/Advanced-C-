@@ -1,0 +1,6 @@
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\07.QueryMess\bin\Debug\07.QueryMess.exe
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\07.QueryMess\bin\Debug\07.QueryMess.pdb
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\07.QueryMess\obj\Debug\07.QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\07.QueryMess\obj\Debug\07.QueryMess.exe
+C:\Users\WindWallk\Desktop\Advanced C#\4. Advanced-CSharp-Regular-Expressions\07.QueryMess\obj\Debug\07.QueryMess.pdb
